@@ -8,9 +8,12 @@ Welcome to my profile! I'm a QA Automation Engineer who strongly focuses on crea
 
 I'm an accomplished **QA Automation Engineer** with 8 years of experience in the healthcare and fintech industries. I specialize in optimizing CI/CD pipelines and developing robust automation solutions that ensure the quality and compliance of enterprise applications (HIPAA, PCI DSS). Currently, I’m pursuing a B.S. in IT while continuously delivering impactful automation solutions.
 
-- 🔭 I’m currently working on: **[FILL IN CURRENT PROJECTS OR FOCUS]**
-- 🌱 I’m currently learning: **[FILL IN NEW SKILLS OR TECHNOLOGIES]**
-- 👯 I’m looking to collaborate on: **[FILL IN COLLABORATION INTERESTS]**
+- 🔭 currently working on
+- Developing and maintaining automated test scripts for web applications.
+- Implementing continuous integration and continuous deployment (CI/CD) pipelines.
+- Exploring new testing tools and methodologies to enhance testing efficiency.
+- 🌱 currently learning: **Python,ISTQ Certification**
+- 👯 looking to collaborate on: **open source projects related to QA automation tools like Selenium, Cypress, or Jest, particularly in web development with Java and Cucumber.**
 - 📫 How to reach me: Rahim.ms444@gmail.com | https://www.linkedin.com/in/moqaddas-qa-automation 
 
 ---
