@@ -73,8 +73,9 @@ I'm an accomplished **QA Automation Engineer** with 8 years of experience in the
   <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws" alt="AWS" />
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-Appium-05122A?style=flat&logo=appium" alt="Appium" />
-  <img src="https://img.shields.io/badge/- Mobile-testing-05122A?style=flat&logo=  Mobile-testing alt=" Mobile-testing" />
-
+  <img src="https://img.shields.io/badge/-Android-05122A?style=flat&logo=android" alt="Android Testing" />
+  <img src="https://img.shields.io/badge/-iOS-05122A?style=flat&logo=apple" alt="iOS Testing" />
+  <img src="https://img.shields.io/badge/-Web%20Testing-05122A?style=flat&logo=googlechrome" alt="Web Testing" />
 </div>
 
 ---
