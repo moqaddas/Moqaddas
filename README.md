@@ -44,14 +44,34 @@ I'm an accomplished **QA Automation Engineer** with 8 years of experience in the
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium" alt="Selenium" />
-  <img src="https://img.shields.io/badge/-REST%20Assured-05122A?style=flat&logo=rest" alt="REST Assured"/>
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
-  <img src="https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit" alt="JUnit"/>
-  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" alt="Postman"/>
-  <!-- Add additional tech badges as needed -->
+  <img src="https://img.shields.io/badge/-REST%20Assured-05122A?style=flat&logo=rest" alt="REST Assured" />
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit" alt="JUnit" />
+  <img src="https://img.shields.io/badge/-TestNG-05122A?style=flat&logo=testng" alt="TestNG" />
+  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven" alt="Maven" />
+  <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira" alt="Jira" />
+  <img src="https://img.shields.io/badge/-TestRail-05122A?style=flat&logo=testrail" alt="TestRail" />
+  <img src="https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipseide" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle" alt="Oracle" />
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-Gherkin-05122A?style=flat&logo=gherkin" alt="Gherkin" />
+  <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows" alt="Windows" />
+  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoftoffice" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/-Manual%20Testing-05122A?style=flat" alt="Manual Testing" />
+  <img src="https://img.shields.io/badge/-Agile-05122A?style=flat" alt="Agile" />
+  <img src="https://img.shields.io/badge/-Scrum-05122A?style=flat" alt="Scrum" />
+  <img src="https://img.shields.io/badge/-Waterfall-05122A?style=flat" alt="Waterfall" />
 </div>
+
 
 ---
 
