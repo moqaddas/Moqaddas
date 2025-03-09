@@ -3,11 +3,11 @@
 
 **Tagline:** "Code with passion, innovate with purpose."
 
-Welcome to my profile! I'm a QA Automation Engineer with a strong focus on creating efficient and scalable frameworks from scratch.
+Welcome to my profile! I'm a QA Automation Engineer who strongly focuses on creating efficient and scalable frameworks from scratch.
 
 ## About Me
 
-I'm an accomplished **QA Automation Engineer** with 8 years of experience in the healthcare and fintech industries. I specialize in optimizing CI/CD pipelines and developing robust automation solutions to ensure quality and compliance (HIPAA, PCI DSS) for enterprise applications. Currently, I’m pursuing a B.S. in IT while continuously delivering impactful automation solutions.
+I'm an accomplished **QA Automation Engineer** with 8 years of experience in the healthcare and fintech industries. I specialize in optimizing CI/CD pipelines and developing robust automation solutions to ensure enterprise applications' quality and compliance (HIPAA, PCI DSS). Currently, I’m pursuing a B.S. in IT while continuously delivering impactful automation solutions.
 
 - 🔭 I’m currently working on: **[FILL IN CURRENT PROJECTS OR FOCUS]**
 - 🌱 I’m currently learning: **[FILL IN NEW SKILLS OR TECHNOLOGIES]**
@@ -70,8 +70,10 @@ I'm an accomplished **QA Automation Engineer** with 8 years of experience in the
   <img src="https://img.shields.io/badge/-Agile-05122A?style=flat" alt="Agile" />
   <img src="https://img.shields.io/badge/-Scrum-05122A?style=flat" alt="Scrum" />
   <img src="https://img.shields.io/badge/-Waterfall-05122A?style=flat" alt="Waterfall" />
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Appium-05122A?style=flat&logo=appium" alt="Appium" />
 </div>
-
 
 ---
 
