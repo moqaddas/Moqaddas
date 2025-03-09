@@ -1,13 +1,12 @@
 # Hi there, I'm Moqaddas! 👋
 
-
-**Tagline:** "Code with passion, innovate with purpose."
+Code with passion, innovate with purpose.
 
 Welcome to my profile! I'm a QA Automation Engineer who strongly focuses on creating efficient and scalable frameworks from scratch.
 
 ## About Me
 
-I'm an accomplished **QA Automation Engineer** with 8 years of experience in the healthcare and fintech industries. I specialize in optimizing CI/CD pipelines and developing robust automation solutions to ensure enterprise applications' quality and compliance (HIPAA, PCI DSS). Currently, I’m pursuing a B.S. in IT while continuously delivering impactful automation solutions.
+I'm an accomplished **QA Automation Engineer** with 8 years of experience in the healthcare and fintech industries. I specialize in optimizing CI/CD pipelines and developing robust automation solutions that ensure the quality and compliance of enterprise applications (HIPAA, PCI DSS). Currently, I’m pursuing a B.S. in IT while continuously delivering impactful automation solutions.
 
 - 🔭 I’m currently working on: **[FILL IN CURRENT PROJECTS OR FOCUS]**
 - 🌱 I’m currently learning: **[FILL IN NEW SKILLS OR TECHNOLOGIES]**
