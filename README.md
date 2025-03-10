@@ -421,11 +421,24 @@ graph TD
 **B.S. Information Technology** (Expected 2026)  
 *Los Angeles Pierce College*  
 🏅 Relevant Coursework: Secure Coding Practices • QA Methodologies • Cloud Testing
+  
+## Technical Roadmap:
 
-**Technical Roadmap**:  
-▰▰▰▰▰▰▰▰▱ 85% Containerization (Docker/Kubernetes)  
-▰▰▰▰▰▱▱▱ 60% AI-Powered Test Generation  
-▰▰▰▰▰▰▰▱▱ 75% Security Automation (OWASP ZAP)
+**Containerization (Docker)**  
+🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 60%
+
+**AI-Powered Test Generation**  
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%
+
+**Web-Based & Mobile Testing Automation (Selenium, Appium)**  
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 100%
+
+**Continuous Integration/Continuous Deployment (Jenkins)**  
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
+
+**Behavior-Driven Development (Cucumber, TestNG)**  
+🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 50%
+
 
 ---
 
