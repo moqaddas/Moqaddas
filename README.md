@@ -130,14 +130,48 @@
 ## 🚀 Core Competencies
 
 <details>
-<summary><b>Areas of Expertise</b></summary>
+  <summary><b>Automation Expertise & Design Patterns</b></summary>
+  <div align="center" style="margin-top: 10px;">
+    <!-- Core Automation Expertise -->
+    <a href="https://www.selenium.dev/">
+      <img src="https://img.shields.io/static/v1?label=POM&message=Java%20%7C%20Selenium&color=blue&style=for-the-badge" alt="POM (Java | Selenium)" style="height:60px;" />
+    </a>
+    &nbsp;
+    <a href="https://cucumber.io/">
+      <img src="https://img.shields.io/static/v1?label=BDD&message=Cucumber&color=47A248&style=for-the-badge" alt="BDD (Cucumber)" style="height:60px;" />
+    </a>
+    &nbsp;
+    <a href="https://www.postman.com/">
+      <img src="https://img.shields.io/static/v1?label=API%20Testing&message=REST%20Assured+%2B+Postman&color=00A98F&style=for-the-badge" alt="API Testing (REST Assured + Postman)" style="height:60px;" />
+    </a>
+    &nbsp;
+    <a href="https://www.jenkins.io/">
+      <img src="https://img.shields.io/static/v1?label=CI/CD&message=Jenkins&color=F05032&style=for-the-badge" alt="CI/CD (Jenkins)" style="height:60px;" />
+    </a>
 
-[![BDD Automation](https://img.shields.io/badge/Cucumber_BDD-★★★-lightgrey?labelColor=47A248&style=for-the-badge)](https://cucumber.io/)
-[![CI/CD](https://img.shields.io/badge/Jenkins_Pipelines-★★★-lightgrey?labelColor=F05032&style=for-the-badge)](https://www.jenkins.io/)
-[![Healthcare Compliance](https://img.shields.io/badge/HIPAA_Validation-★★★-lightgrey?labelColor=3498DB&style=for-the-badge)](https://www.hhs.gov/hipaa/)
-[![Financial Security](https://img.shields.io/badge/PCI_DSS-★★★-lightgrey?labelColor=FF6C37&style=for-the-badge)](https://www.pcisecuritystandards.org/)
+   <!-- Additional Design Patterns & Frameworks -->
+<div align="center" style="display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <a href="https://en.wikipedia.org/wiki/Data-driven_testing" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Data-Driven%20Testing&message=Excel%2FCSV%2FData&color=orange&style=for-the-badge" alt="Data-Driven Testing" style="height:60px;">
+  </a>
+  <a href="https://www.selenium.dev/documentation/en/grid/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Parallel%20Execution&message=Multiple+Browsers&color=purple&style=for-the-badge" alt="Parallel Execution" style="height:60px;">
+  </a>
+  <a href="https://docs.qameta.io/allure/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Test%20Reporting&message=Allure&color=%2300B4FF&style=for-the-badge" alt="Test Reporting (Allure)" style="height:60px;">
+  </a>
+  <a href="https://www.browserstack.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Cross%20Browser&message=Testing&color=red&style=for-the-badge" alt="Cross Browser Testing" style="height:60px;">
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Hybrid%20Framework&message=Modular%20%7C%20POM&color=cyan&style=for-the-badge" alt="Hybrid Framework" style="height:60px;">
+  </a>
+</div>
 
+  </div>
 </details>
+
+
 
 ---
 
