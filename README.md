@@ -143,8 +143,27 @@
 
 ## Certifications
 
-- **SDET Automation**, Syntax Technologies  
-- **[Other Certifications]**
+## Certifications
+
+<table>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 8px;">
+      <img src="https://img.icons8.com/color/48/000000/checked-certificate.png" alt="" width="40" />
+    </td>
+    <td style="vertical-align: middle;">
+      <strong>SDET Automation</strong><br>
+      Syntax Technologies
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 8px;">
+      <img src="https://img.icons8.com/fluency/48/000000/medal.png" alt="" width="40" />
+    </td>
+    <td style="vertical-align: middle;">
+      <strong>Other Certifications</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
