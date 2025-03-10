@@ -394,23 +394,32 @@ graph TD
 ## 🛠️ Professional Journey
 
 <details>
-<summary><b>CVS Health | QA Automation Engineer</b></summary>
-
-- ⚡ **Framework Innovation:** Built Selenium/Java BDD framework enabling bi-weekly releases
-- 🛡️ **Compliance Mastery:** Automated HL7 data exchanges handling 50K+ daily transactions
-- 🔄 **Pipeline Optimization:** Reduced post-deployment hotfixes by 25% through Jenkins integration
-- 👥 **Team Leadership:** Mentored 5+ engineers in test automation best practices
-
+  <summary><b>CVS Health | QA Automation Engineer</b></summary>
+  <ul>
+    <li>⚡ <b>Framework Innovation:</b> Built Selenium/Java BDD framework enabling bi-weekly releases</li>
+    <li>🛡️ <b>Compliance Mastery:</b> Automated HL7 data exchanges handling 50K+ daily transactions</li>
+    <li>🔄 <b>Pipeline Optimization:</b> Reduced post-deployment hotfixes by 25% through Jenkins integration</li>
+    <li>👥 <b>Team Leadership:</b> Mentored 5+ engineers in test automation best practices</li>
+  </ul>
 </details>
 
 <details>
-<summary><b>Wells Fargo | QA Automation Tester</b></summary>
+  <summary><b>Wells Fargo | QA Automation Tester</b></summary>
+  <ul>
+    <li>💳 <b>Financial Security:</b> Ensured PCI DSS compliance for transaction processing systems</li>
+    <li>🚀 <b>Regression Automation:</b> Automated 71% of test suites using Selenium/TestNG</li>
+    <li>📊 <b>Process Improvement:</b> Created real-time JIRA dashboards for 3 Scrum teams</li>
+    <li>💸 <b>Cost Control:</b> Saved $15K/year through legacy script migration</li>
+  </ul>
+</details>
 
-- 💳 **Financial Security:** Ensured PCI DSS compliance for transaction processing systems
-- 🚀 **Regression Automation:** Automated 71% of test suites using Selenium/TestNG
-- 📊 **Process Improvement:** Created real-time JIRA dashboards for 3 Scrum teams
-- 💸 **Cost Control:** Saved $15K/year through legacy script migration
-
+<details>
+  <summary><b>AutoZone | Manual Tester</b> - California, USA</summary>
+  <ul>
+    <li>🛠️ <b>Script Development:</b> Developed and maintained Selenium WebDriver scripts for regression and functional testing</li>
+    <li>🔍 <b>API Testing:</b> Conducted manual testing of REST APIs using Postman, ensuring accuracy in API responses</li>
+    <li>📈 <b>Collaboration:</b> Employed TestRail and Jira for efficient bug tracking and collaboration within Agile teams</li>
+  </ul>
 </details>
 
 ---
