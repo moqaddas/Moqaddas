@@ -166,55 +166,81 @@ BA in Political Science (Sept 2014 – June 2018)
 
 ```mermaid
 graph TD
+  %% Define styling for each node type with black text
+  style A fill:#FFDD00,stroke:#000,stroke-width:2px,color:#000;
+  style B fill:#FFBB00,stroke:#000,stroke-width:2px,color:#000;
+  style C fill:#77DD77,stroke:#000,stroke-width:2px,color:#000;
+  style D fill:#77DD77,stroke:#000,stroke-width:2px,color:#000;
+  style E fill:#77DD77,stroke:#000,stroke-width:2px,color:#000;
+  style F fill:#77DD77,stroke:#000,stroke-width:2px,color:#000;
+  style G fill:#B19CD9,stroke:#000,stroke-width:2px,color:#000;
+  style H fill:#FF6961,stroke:#000,stroke-width:2px,color:#000;
+  style I fill:#DEA5A4,stroke:#000,stroke-width:2px,color:#000;
+  style J fill:#DEA5A4,stroke:#000,stroke-width:2px,color:#000;
+  style K fill:#FFD700,stroke:#000,stroke-width:2px,color:#000;
+  style L fill:#FFD700,stroke:#000,stroke-width:2px,color:#000;
+  style M fill:#FFD700,stroke:#000,stroke-width:2px,color:#000;
+  style N fill:#FFD700,stroke:#000,stroke-width:2px,color:#000;
+  style O fill:#FFD700,stroke:#000,stroke-width:2px,color:#000;
+  style P fill:#CFCFC4,stroke:#000,stroke-width:2px,color:#000;
+  style Q fill:#FFDDC1,stroke:#000,stroke-width:2px,color:#000;
+  style R fill:#FFDDC1,stroke:#000,stroke-width:2px,color:#000;
+  style S fill:#77DD77,stroke:#000,stroke-width:2px,color:#000;
+  style T fill:#77DD77,stroke:#000,stroke-width:2px,color:#000;
+  style U fill:#ADD8E6,stroke:#000,stroke-width:2px,color:#000;
+  style V fill:#ADD8E6,stroke:#000,stroke-width:2px,color:#000;
+  style W fill:#ADD8E6,stroke:#000,stroke-width:2px,color:#000;
+
   subgraph CI/CD Pipeline
-    A[Jenkins] --> B{Build & Trigger}
+    A[Jenkins]
+    B[Build & Trigger]
   end
-  
+
   subgraph Test Execution
     B --> C[Selenium Grid]
     B --> D[Postman API Tests]
     B --> E[JUnit Tests]
     B --> F[TestNG Tests]
   end
-  
+
   subgraph Reporting
-    G[Allure Reports] --> H[Compliance Dashboard]
+    G[Allure Reports]
+    G --> H[Compliance Dashboard]
   end
-  
+
   subgraph Database
-    I[MySQL]
-    J[Oracle]
-    C --> I
-    C --> J
+    C --> I[MySQL]
+    C --> J[Oracle]
   end
-  
+
   subgraph Tools & Frameworks
-    K[Java] --> C
-    L[Git] --> B
-    M[GitHub] --> B
-    N[Maven] --> B
-    O[JIRA] --> P[Issue Tracking]
+    K[Java]
+    L[Git]
+    M[GitHub]
+    N[Maven]
+    O[JIRA]
+    K --> C
+    L --> B
+    M --> B
+    N --> B
+    O --> P[Issue Tracking]
   end
-  
+
   subgraph Compliance & Standards
-    Q[HIPAA Validation]
-    R[PCI DSS Validation]
-    H --> Q
-    H --> R
+    H --> Q[HIPAA Validation]
+    H --> R[PCI DSS Validation]
   end
-  
+
   subgraph Test Scenarios
-    S[Cucumber] --> T[Gherkin Scripts]
+    S[Cucumber]
+    T[Gherkin Scripts]
     C --> S
   end
-  
+
   subgraph Test Types
-    U[Web App Testing]
-    V[API Validation]
-    W[Mobile App Testing]
-    C --> U
-    D --> V
-    F --> W
+    C --> U[Web App Testing]
+    D --> V[API Validation]
+    F --> W[Mobile App Testing]
   end
 
 ```
