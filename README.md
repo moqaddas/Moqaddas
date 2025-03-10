@@ -1,8 +1,7 @@
-<div style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
-  <!-- Background Banner Image -->
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGF1dG9tYXRpb258ZW58MHx8fHwxNjg2MTY2NzY0&ixlib=rb-1.2.1&q=80&w=1200" 
-       alt="QA Automation Engineering" 
-       style="width: 100%; height: auto; border-radius: 8px;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
+  <img src="https://i.imgur.com/B2GpwIy.gif"
+       alt="GIF Banner"
+       style="width: 100%; height: 250px; border-radius: 8px; object-fit: cover;">
 </div>
 
 
