@@ -1,10 +1,25 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg" width="200" alt="QA Automation Puzzle">
-
-# Moqaddas Rahim 🔍 [![Open to Work](https://img.shields.io/badge/-Hire%20Me-27ae60?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moqaddas-qa-automation)
-
-*"Code with precision, test with purpose"*
+  <!-- Banner Image -->
+  <img src="https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg" style="width:100%; max-width:600px; height:auto;" alt="QA Automation Puzzle">
+  
+  <!-- Name with Glowing Text Effect -->
+  <h1 style="font-weight: bold; color: black; text-shadow: 2px 2px 5px #ff0000, -2px -2px 5px #00ff00; margin-top: 20px;">
+    Moqaddas Rahim 🔍
+  </h1>
+  
+  <!-- New Slogan -->
+  <p style="font-style: italic; font-size: 1.4em; margin: 10px 0;">
+    "At the intersection of innovation and quality, I craft automation solutions that redefine how products are tested and perfected."
+  </p>
+  
+  <!-- Hire Me Button -->
+  <p style="margin: 20px 0;">
+    <a href="https://www.linkedin.com/in/moqaddas-qa-automation" target="_blank" rel="noreferrer" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-Hire%20Me-27ae60?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me">
+    </a>
+  </p>
 </div>
+
 
 ## ⚙️ Technical Arsenal
 
