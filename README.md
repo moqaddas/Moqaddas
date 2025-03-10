@@ -130,7 +130,7 @@
 ## 🚀 Core Competencies
 
 <details style="margin: 15px 0;">
-  <summary style="cursor: pointer; padding: 8px 12px; background: #e3f2fd; border-radius: 4px; font-weight: 500;">
+  <summary style="cursor: pointer; padding: 8px 12px; background: #e3f2fd; border-radius: 4px; font-weight: 500; margin-bottom: 8px;">
     Automation Expertise & Design Patterns
   </summary>
   
@@ -138,16 +138,40 @@
   <div style="padding: 12px; margin-top: 10px; background: #f8f9fa; border-radius: 6px;">
     <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
       <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=POM&message=Java%20%7C%20Selenium&color=blue&style=flat-square" alt="POM" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=POM&message=Java%20%7C%20Selenium&color=blue&style=flat-square" 
+          alt="POM (Java | Selenium)" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;" 
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
       <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=BDD&message=Cucumber&color=47A248&style=flat-square" alt="BDD" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=BDD&message=Cucumber&color=47A248&style=flat-square" 
+          alt="BDD (Cucumber)" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
       <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=API%20Testing&message=REST%20Assured+%2B+Postman&color=00A98F&style=flat-square" alt="API Testing" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=API%20Testing&message=REST%20Assured+%2B+Postman&color=00A98F&style=flat-square" 
+          alt="API Testing (REST Assured + Postman)" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
       <a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=CI/CD&message=Jenkins&color=F05032&style=flat-square" alt="CI/CD" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=CI/CD&message=Jenkins&color=F05032&style=flat-square" 
+          alt="CI/CD (Jenkins)" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
     </div>
   </div>
@@ -156,36 +180,54 @@
   <div style="padding: 12px; margin-top: 10px; background: #f8f9fa; border-radius: 6px;">
     <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
       <a href="https://en.wikipedia.org/wiki/Data-driven_testing" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=Data-Driven%20Testing&message=Excel%2FCSV%2FData&color=orange&style=flat-square" alt="Data-Driven" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=Data-Driven%20Testing&message=Excel/CSV%2FData&color=orange&style=flat-square" 
+          alt="Data-Driven Testing" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
       <a href="https://www.selenium.dev/documentation/en/grid/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=Parallel%20Execution&message=Multiple+Browsers&color=purple&style=flat-square" alt="Parallel" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=Parallel%20Execution&message=Multiple+Browsers&color=purple&style=flat-square" 
+          alt="Parallel Execution" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
       <a href="https://docs.qameta.io/allure/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=Test%20Reporting&message=Allure&color=%2300B4FF&style=flat-square" alt="Reporting" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=Test%20Reporting&message=Allure&color=%2300B4FF&style=flat-square" 
+          alt="Reporting" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
       <a href="https://www.browserstack.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=Cross%20Browser&message=Testing&color=red&style=flat-square" alt="Cross Browser" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=Cross%20Browser&message=Testing&color=red&style=flat-square" 
+          alt="Cross Browser Testing" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
       <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?label=Hybrid%20Framework&message=Modular%20%7C%20POM&color=cyan&style=flat-square" alt="Hybrid" style="height:40px;">
+        <img 
+          src="https://img.shields.io/static/v1?label=Hybrid%20Framework&message=Modular%20%7C%20POM&color=cyan&style=flat-square" 
+          alt="Hybrid Framework" 
+          style="height:40px; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+          onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.1)';" 
+          onmouseout="this.style.transform='none'; this.style.boxShadow='none';"
+        >
       </a>
     </div>
   </div>
 </details>
 
-<style>
-  details[open] summary {
-    margin-bottom: 8px;
-  }
-  img {
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-  img:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
-  }
-</style>
 
 ---
 
