@@ -1,6 +1,12 @@
+
 <div align="center">
   <!-- Banner Image -->
-  <img src="https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg" style="width:100%; max-width:600px; height:auto;" alt="QA Automation Puzzle">
+ <div style="position: relative; width:100%; max-width:800px; margin: 0 auto;">
+  <img src="https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Minimalist QA Automation Banner" style="width:100%; height:auto;">
+  
+
+</div>
+
   
   <!-- Name with Glowing Text Effect -->
   <h1 style="font-weight: bold; color: black; text-shadow: 2px 2px 5px #ff0000, -2px -2px 5px #00ff00; margin-top: 20px;">
@@ -27,14 +33,14 @@
 <summary><b>Languages & Frameworks</b></summary>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Java-3097ba?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/-REST%20Assured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white" alt="REST Assured" />
-  <img src="https://img.shields.io/badge/-JUnit-05122A?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
-  <img src="https://img.shields.io/badge/-TestNG-05122A?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
-  <img src="https://img.shields.io/badge/-Cucumber-05122A?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
-  <img src="https://img.shields.io/badge/-Gherkin-05122A?style=for-the-badge&logo=gherkin&logoColor=white" alt="Gherkin" />
-  <img src="https://img.shields.io/badge/-Appium-05122A?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/-Java-3097ba?style=for-the-badge&logo=java&logoColor=white&logoWidth=50" alt="Java" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&logoWidth=50" alt="Selenium" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-REST%20Assured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white&logoWidth=50" alt="REST Assured" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-JUnit-05122A?style=for-the-badge&logo=junit&logoColor=white&logoWidth=50" alt="JUnit" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-TestNG-05122A?style=for-the-badge&logo=testng&logoColor=white&logoWidth=50" alt="TestNG" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-Cucumber-05122A?style=for-the-badge&logo=cucumber&logoColor=white&logoWidth=50" alt="Cucumber" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-Gherkin-05122A?style=for-the-badge&logo=gherkin&logoColor=white&logoWidth=50" alt="Gherkin" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-Appium-05122A?style=for-the-badge&logo=appium&logoColor=white&logoWidth=50" alt="Appium" style="height: 60px;" />
 </div>
 
 </details>
@@ -43,11 +49,12 @@
 <summary><b>Build & Project Management Tools</b></summary>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Jenkins-F05032?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/-Maven-05122A?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/-Jira-05122A?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/-TestRail-05122A?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" />
+  <img src="https://img.shields.io/badge/-Jenkins-F05032?style=for-the-badge&logo=jenkins&logoColor=white&logoWidth=50" alt="Jenkins" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-Maven-05122A?style=for-the-badge&logo=apachemaven&logoColor=white&logoWidth=50" alt="Maven" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-Jira-05122A?style=for-the-badge&logo=jira&logoColor=white&logoWidth=50" alt="Jira" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-TestRail-05122A?style=for-the-badge&logo=testrail&logoColor=white&logoWidth=50" alt="TestRail" style="height: 60px;" />
 </div>
+
 
 </details>
 
@@ -55,8 +62,8 @@
 <summary><b>Version Control & CI/CD</b></summary>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white&logoWidth=50" alt="Git" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white&logoWidth=50" alt="GitHub" style="height: 60px;" />
 </div>
 
 </details>
@@ -65,10 +72,11 @@
 <summary><b>Databases</b></summary>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=50" alt="SQL" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=50" alt="MySQL" style="height: 60px;" />
+  <img src="https://img.shields.io/badge/-Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white&logoWidth=50" alt="Oracle" style="height: 60px;" />
 </div>
+
 
 </details>
 
@@ -76,7 +84,7 @@
 <summary><b>Markup & Scripting Languages</b></summary>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white&logoWidth=50" alt="HTML5" style="height: 60px;" />
 </div>
 
 </details>
@@ -85,10 +93,11 @@
 <summary><b>Operating Systems & General Tools</b></summary>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-05122A?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows&logoColor=white&logoWidth=50" alt="Windows" style="height:60px;" />
+  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop&logoColor=white&logoWidth=50" alt="Photoshop" style="height:60px;" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-05122A?style=for-the-badge&logo=microsoftoffice&logoColor=white&logoWidth=50" alt="Microsoft Office" style="height:60px;" />
 </div>
+
 
 </details>
 
@@ -96,9 +105,10 @@
 <summary><b>DevOps & Cloud Platforms</b></summary>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=50" alt="AWS" style="height:60px;" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=white&logoWidth=50" alt="Docker" style="height:60px;" />
 </div>
+
 
 </details>
 
@@ -106,11 +116,12 @@
 <summary><b>Mobile & Web Testing</b></summary>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=white" alt="Android Testing" />
-  <img src="https://img.shields.io/badge/-iOS-05122A?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Testing" />
-  <img src="https://img.shields.io/badge/-Web%20Testing-05122A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Testing" />
-  <img src="https://img.shields.io/badge/-Appium-05122A?style=for-the-badge&logo=appium&logoColor=white" 
+  <img src="https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=white&logoWidth=50" alt="Android Testing" style="height:60px;" />
+  <img src="https://img.shields.io/badge/-iOS-05122A?style=for-the-badge&logo=apple&logoColor=white&logoWidth=50" alt="iOS Testing" style="height:60px;" />
+  <img src="https://img.shields.io/badge/-Web%20Testing-05122A?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=50" alt="Web Testing" style="height:60px;" />
+  <img src="https://img.shields.io/badge/-Appium-05122A?style=for-the-badge&logo=appium&logoColor=white&logoWidth=50" alt="Appium" style="height:60px;" />
 </div>
+
 
 </details>
 
