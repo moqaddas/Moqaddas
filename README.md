@@ -94,6 +94,7 @@
   <img src="https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=white" alt="Android Testing" />
   <img src="https://img.shields.io/badge/-iOS-05122A?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Testing" />
   <img src="https://img.shields.io/badge/-Web%20Testing-05122A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Testing" />
+  <img src="https://img.shields.io/badge/-Appium-05122A?style=for-the-badge&logo=appium&logoColor=white" 
 </div>
 
 </details>
@@ -149,14 +150,58 @@ BA in Political Science (Sept 2014 – June 2018)
 ## 🏗️ Automation Framework Architecture
 
 ```mermaid
-graph LR
-  A[Jenkins] --> B{Selenium Grid}
-  B --> C[Web App Testing]
-  B --> D[API Validation]
-  A --> E[Allure Reports]
-  E --> F[Compliance Dashboard]
-  C --> G[HL7 Data Exchange]
-  D --> H[50K+ Daily Transactions]
+graph TD
+  subgraph CI/CD Pipeline
+    A[Jenkins] --> B{Build & Trigger}
+  end
+  
+  subgraph Test Execution
+    B --> C[Selenium Grid]
+    B --> D[Postman API Tests]
+    B --> E[JUnit Tests]
+    B --> F[TestNG Tests]
+  end
+  
+  subgraph Reporting
+    G[Allure Reports] --> H[Compliance Dashboard]
+  end
+  
+  subgraph Database
+    I[MySQL]
+    J[Oracle]
+    C --> I
+    C --> J
+  end
+  
+  subgraph Tools & Frameworks
+    K[Java] --> C
+    L[Git] --> B
+    M[GitHub] --> B
+    N[Maven] --> B
+    O[JIRA] --> P[Issue Tracking]
+  end
+  
+  subgraph Compliance & Standards
+    Q[HIPAA Validation]
+    R[PCI DSS Validation]
+    H --> Q
+    H --> R
+  end
+  
+  subgraph Test Scenarios
+    S[Cucumber] --> T[Gherkin Scripts]
+    C --> S
+  end
+  
+  subgraph Test Types
+    U[Web App Testing]
+    V[API Validation]
+    W[Mobile App Testing]
+    C --> U
+    D --> V
+    F --> W
+  end
+
 ```
 
 ## 🏆 Key Metrics
