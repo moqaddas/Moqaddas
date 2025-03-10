@@ -272,13 +272,6 @@ BA in Political Science (Sept 2014 – June 2018)
 
 ---
 
-## Contact Me
-
-- ✉️ Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 🌐 Website: [Your Personal Website/Portfolio URL]
-
----
 
 <!-- Optional call-to-action -->
 <div align="center">
@@ -414,7 +407,7 @@ graph TD
 </details>
 
 <details>
-  <summary><b>AutoZone | Manual Tester</b> - California, USA</summary>
+  <summary><b>AutoZone | Manual Tester</b></summary>
   <ul>
     <li>🛠️ <b>Script Development:</b> Developed and maintained Selenium WebDriver scripts for regression and functional testing</li>
     <li>🔍 <b>API Testing:</b> Conducted manual testing of REST APIs using Postman, ensuring accuracy in API responses</li>
