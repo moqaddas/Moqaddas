@@ -8,17 +8,102 @@
 
 ## ⚙️ Technical Arsenal
 
+<details>
+<summary><b>Languages & Frameworks</b></summary>
+
 <div align="left">
-<img src="https://img.shields.io/badge/-Java-3097ba?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-<img src="https://img.shields.io/badge/-REST_Assured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white">
-<img src="https://img.shields.io/badge/-Jenkins-F05032?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/-HIPAA-008CBA?style=for-the-badge&logo=hipaa&logoColor=white">
-<img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-3097ba?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/-REST%20Assured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white" alt="REST Assured" />
+  <img src="https://img.shields.io/badge/-JUnit-05122A?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/-TestNG-05122A?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
+  <img src="https://img.shields.io/badge/-Cucumber-05122A?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/-Gherkin-05122A?style=for-the-badge&logo=gherkin&logoColor=white" alt="Gherkin" />
+  <img src="https://img.shields.io/badge/-Appium-05122A?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
 </div>
 
+</details>
+
 <details>
-<summary><b>🚀 Core Competencies</b></summary>
+<summary><b>Build & Project Management Tools</b></summary>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Jenkins-F05032?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/-Maven-05122A?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/-Jira-05122A?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/-TestRail-05122A?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Version Control & CI/CD</b></summary>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Markup & Scripting Languages</b></summary>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Operating Systems & General Tools</b></summary>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-05122A?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
+</div>
+
+</details>
+
+<details>
+<summary><b>DevOps & Cloud Platforms</b></summary>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Mobile & Web Testing</b></summary>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=white" alt="Android Testing" />
+  <img src="https://img.shields.io/badge/-iOS-05122A?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Testing" />
+  <img src="https://img.shields.io/badge/-Web%20Testing-05122A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Testing" />
+</div>
+
+</details>
+
+---
+
+## 🚀 Core Competencies
+
+<details>
+<summary><b>Areas of Expertise</b></summary>
 
 [![BDD Automation](https://img.shields.io/badge/Cucumber_BDD-★★★-lightgrey?labelColor=47A248&style=for-the-badge)](https://cucumber.io/)
 [![CI/CD](https://img.shields.io/badge/Jenkins_Pipelines-★★★-lightgrey?labelColor=F05032&style=for-the-badge)](https://www.jenkins.io/)
@@ -26,6 +111,38 @@
 [![Financial Security](https://img.shields.io/badge/PCI_DSS-★★★-lightgrey?labelColor=FF6C37&style=for-the-badge)](https://www.pcisecuritystandards.org/)
 
 </details>
+
+---
+
+## Certifications
+
+- **SDET Automation**, Syntax Technologies  
+- **[Other Certifications]**
+
+---
+
+## Education
+
+**Aria University** – Balkh, Afghanistan  
+BA in Political Science (Sept 2014 – June 2018)  
+*[Add additional education if applicable]*
+
+---
+
+## Contact Me
+
+- ✉️ Email: [Your Email]
+- 💼 LinkedIn: [Your LinkedIn URL]
+- 🌐 Website: [Your Personal Website/Portfolio URL]
+
+---
+
+<!-- Optional call-to-action -->
+<div align="center">
+  <sub>
+    Looking for collaborators or interested in working together? Feel free to reach out!
+  </sub>
+</div>
 
 ---
 
