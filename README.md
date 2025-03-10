@@ -1,30 +1,39 @@
-
-<div align="center">
-  <!-- Banner Image -->
- <div style="position: relative; width:100%; max-width:800px; margin: 0 auto;">
-  <img src="https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Minimalist QA Automation Banner" style="width:100%; height:auto;">
-  
-
+<div style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
+  <!-- Background Banner Image -->
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGF1dG9tYXRpb258ZW58MHx8fHwxNjg2MTY2NzY0&ixlib=rb-1.2.1&q=80&w=1200" 
+       alt="QA Automation Engineering" 
+       style="width: 100%; height: auto; border-radius: 8px;">
 </div>
 
+
+
   
+  <!-- Dark Overlay for Text Contrast -->
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); border-radius: 8px;"></div>
+
+<!-- Overlay Text: Name, Slogan, and Hire Me Button -->
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
   <!-- Name with Glowing Text Effect -->
-  <h1 style="font-weight: bold; color: black; text-shadow: 2px 2px 5px #ff0000, -2px -2px 5px #00ff00; margin-top: 20px;">
+  <h1 style="font-weight: bold; color: white; text-shadow: 2px 2px 5px #ff0000, -2px -2px 5px #00ff00; margin-top: 0;">
     Moqaddas Rahim 🔍
   </h1>
-  
-  <!-- New Slogan -->
-  <p style="font-style: italic; font-size: 1.4em; margin: 10px 0;">
-    "At the intersection of innovation and quality, I craft automation solutions that redefine how products are tested and perfected."
-  </p>
-  
-  <!-- Hire Me Button -->
-  <p style="margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/moqaddas-qa-automation" target="_blank" rel="noreferrer" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/-Hire%20Me-27ae60?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me">
-    </a>
+
+  <p style="font-style: italic; font-size: 1.4em; color: white; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); margin: 10px 0;">
+    "Located at the crossroads of creativity and excellence, I develop automation solutions that transform the way products are tested and refined."
   </p>
 </div>
+
+
+
+<!-- Hire Me Button -->
+<a href="https://www.linkedin.com/in/moqaddas-qa-automation" target="_blank" rel="noopener noreferrer"
+style="display: inline-block; padding: 12px 30px; font-size: 1.5em; font-weight: bold; color: #fff; text-decoration: none; background: #27ae60; border-radius: 6px; box-shadow: 0 0 20px rgba(39, 174, 96, 0.5); animation: glowing 1.5s infinite;">
+<img src="https://img.icons8.com/fluency/48/000000/hire-me.png" alt="Hire Me Icon" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+Hire Me
+</a>
+  </div>
+</div>
+
 
 
 ## ⚙️ Technical Arsenal
