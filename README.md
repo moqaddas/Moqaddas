@@ -13,13 +13,16 @@
 
 <!-- Overlay Text: Name, Slogan, and Hire Me Button -->
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-  <!-- Name with Glowing Text Effect -->
-  <h1 style="font-weight: bold; color: white; text-shadow: 2px 2px 5px #ff0000, -2px -2px 5px #00ff00; margin-top: 0;">
-    Moqaddas Rahim 🔍
-  </h1>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-This+is+Moqaddas+Rahim....;Nice+to+meet+you!&center=true&size=30)
+
+
+
+ 
 
   <p style="font-style: italic; font-size: 1.4em; color: white; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); margin: 10px 0;">
-    "Located at the crossroads of creativity and excellence, I develop automation solutions that transform the way products are tested and refined."
+    "Located at the crossroads of creativity and excellence, I develop automation solutions that transform how products are tested and refined."
   </p>
 </div>
 
