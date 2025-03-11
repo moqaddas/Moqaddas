@@ -1,12 +1,12 @@
 <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
-  <img src="https://i.imgur.com/B2GpwIy.gif"
-       alt="GIF Banner"
+  <img src="https://i.imgur.com/RFTIRxG.jpeg"
+       alt="JPG Banner"
        style="width: 100%; height: 250px; border-radius: 8px; object-fit: cover;">
 </div>
 
 
 
-  
+
   <!-- Dark Overlay for Text Contrast -->
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); border-radius: 8px;"></div>
 
