@@ -15,7 +15,7 @@
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-This+is+Moqaddas+Rahim....;Nice+to+meet+you!&center=true&size=30)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-*--This+is+Moqaddas+Rahim....;Nice+to+meet+you!&center=true&size=30)
 
 
 
