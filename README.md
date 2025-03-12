@@ -7,8 +7,6 @@
 
 
 
-
-
   <!-- Dark Overlay for Text Contrast -->
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); border-radius: 8px;"></div>
 
@@ -16,7 +14,7 @@
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-*--This+is+Moqaddas+Rahim....;Nice+to+meet+you!&center=true&size=30)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-*-This+is+Moqaddas+Rahim....;Nice+to+meet+you!&center=true&size=30)
 
 
 
