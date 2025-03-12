@@ -1,8 +1,9 @@
 <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
-  <img src="https://i.imgur.com/NyRj64r.jpeg"
-       alt="JPG Banner"
+  <img src="https://i.imgur.com/DhyaGYR.png" 
+       alt="PNG Banner" 
        style="width: 100%; height: 250px; border-radius: 8px; object-fit: cover;">
 </div>
+
 
 
 
