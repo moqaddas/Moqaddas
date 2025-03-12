@@ -1,5 +1,5 @@
 <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
-  <img src="https://i.imgur.com/s1ur8fh.png" 
+  <img src="https://i.imgur.com/WThKn1B.png"
        alt="PNG Banner" 
        style="width: 100%; height: 250px; border-radius: 8px; object-fit: cover;">
 </div>
