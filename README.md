@@ -383,8 +383,9 @@ graph TD
 
 ## 📈 GitHub DNA
 
-![stats](https://github-readme-stats.vercel.app/api?username=moqaddas&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true)
-![streak](https://streak-stats.demolab.com/?user=moqaddas&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60)
+![stats](https://github-readme-stats.vercel.app/api?username=moqaddasQA&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true)
+![streak](https://streak-stats.demolab.com/?user=moqaddasQA&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60)
+
 
 ---
 
