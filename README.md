@@ -450,7 +450,7 @@ graph TD
 ## 🌐 Connect & Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/-Let's%20Connect-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/moqaddas-qa-automation)
-[![Email](https://img.shields.io/badge/-Rahim.ms001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rahim.ms001@gmail.com)
+[![Email](https://img.shields.io/badge/-Rahim.ms444@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rahim.ms444@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-View%20Projects-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Moqaddas-QA)
 
 ![](https://komarev.com/ghpvc/?username=moqaddas&style=flat-square&label=Profile+Views)
